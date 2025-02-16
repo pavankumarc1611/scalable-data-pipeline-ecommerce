@@ -1,0 +1,5 @@
+pyspark
+pandas
+azure-storage-blob
+azure-eventhub
+ 
